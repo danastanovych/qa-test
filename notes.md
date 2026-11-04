@@ -1,2 +1,2 @@
 - I recieve notifications.
-- The error occured during testing.
+- The error occurred during testing.
