@@ -1,4 +1,4 @@
 # Notes
 
-- I recieve notifications.
+- I receive notifications.
 - The error occured during testing.
